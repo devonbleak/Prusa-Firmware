@@ -409,8 +409,8 @@
 #define MESH_NUM_X_POINTS 7
 #define MESH_NUM_Y_POINTS 7
 // Mesh measure definition
-#define MESH_MEAS_NUM_X_POINTS 3
-#define MESH_MEAS_NUM_Y_POINTS 3
+#define MESH_MEAS_NUM_X_POINTS 7
+#define MESH_MEAS_NUM_Y_POINTS 7
 
 // Maximum bed level correction value
 #define BED_ADJUSTMENT_UM_MAX 100
